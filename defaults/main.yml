@@ -1,0 +1,5 @@
+---
+# defaults file for dhparams
+dhparam_file: 'dhparams.pem'
+dhparam_location: '/etc/apache2/ssl'
+dhparam_bytes: 2048
